@@ -1,4 +1,7 @@
-### Hi there 👋
+### I am Emojigit 👋
+I am Emojigit, also known as Emoji, is a person that like coding.
+
+Moer about me, please read [this](more/README.md).
 
 <!--
 **Emojigit/Emojigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
