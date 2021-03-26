@@ -3,6 +3,8 @@ I am Emojigit, also known as Emoji, is a person that like coding.
 
 Moer about me, please read [this](more/README.md).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny00217wm&layout=compact&show_icons=true&bg_color=30,ff0,0ff,00f&title_color=666&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Emojigit/Emojigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
