@@ -1,5 +1,5 @@
 ### Commencement
-This Regulation come into operation on <date>.
+This Regulation come into operation on date.
 ### Interpretation
 In this Regulation-
 * **Player** means a natural person playing on C&C Minetest Servers;
@@ -7,7 +7,7 @@ In this Regulation-
 * **Username** means the name of an account;
 * **Server** means a Minetest server and its hardware;
 * **C&amp;C Servers** means any servers hold by Cato Yiu and Cyrus Yiu;
-* **Admin** means players who have the `server` privage;
+* **Admin** means players who can access the server hardware legally;
 * **Moderator** includes-
   * Admins; and
   * players who have the `ban` privage;
@@ -100,7 +100,7 @@ By doing any of these, the player violates the rules-
 * Any player who is not respecting others may be warned.
 #### Hacking
 * In this section-
-  * **Hack** means violating Hong Kong law Cap.200 (161);
+  * **Hack** means accessing of C&C Servers without the permission of Admins;
   * **Unofficial Client** means Minetest clients other than the official one;
   * **Hacked Client** means modified clients that have an unfair advantage;
 * Any player who hack the server, after being convicted in judicial proceedings, will be banned until the end of time;
