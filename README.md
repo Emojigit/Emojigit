@@ -1,6 +1,7 @@
 * Working on: Minetest mods, Server management, Music Production
-* 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Emojigit&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="max-width: 100%;"></a>
+*
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Emojigit&theme=radical" alt="1F616EMO's GitHub stats" style="max-width: 100%;"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emojigit&theme=radical&show_icons=true&layout=compact" alt="Top Langs" style="max-width: 100%;"></a>
 
 
